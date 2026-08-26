@@ -21,7 +21,7 @@ click==8.2.1
 cryptography==44.0.3
 dnspython==2.6.1
 elementpath==5.0.3
-Flask==3.1.0
+Flask==3.1.1
 frozenlist==1.7.0
 greenlet==3.2.4
 h11==0.14.0
