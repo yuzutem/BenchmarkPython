@@ -19,7 +19,7 @@ cffi==1.17.1
 charset-normalizer==3.4.2
 click==8.2.1
 cryptography==44.0.3
-dnspython==2.6.1
+dnspython==2.9.0
 elementpath==5.0.3
 Flask==3.1.0
 frozenlist==1.7.0
